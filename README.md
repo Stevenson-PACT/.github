@@ -1,2 +1,5 @@
 # .github
-Stevenson Profile Repository
+# Stevenson PACT
+
+Welcome to Stevenson PACT's Github repository!
+
